@@ -1,6 +1,6 @@
 Basic Network Sniffer
 
-CodeAlpha Cybersecurity Internship — Task 2
+CodeAlpha Cybersecurity Internship — Task 1
 
 Project Overview
 
