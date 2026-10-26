@@ -1,4 +1,4 @@
-Task 1: Phishing Awareness Training
+Task 2: Phishing Awareness Training
 
 CodeAlpha Cybersecurity Internship
 
